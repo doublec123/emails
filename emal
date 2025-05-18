@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "2pack25rap@gmail.com",
+    "status": "Pending",
+    "response": ""
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "codezarella685@gmail.com",
+    "status": "Replied",
+    "response": "Thank you for reaching out!"
+  }
+]
